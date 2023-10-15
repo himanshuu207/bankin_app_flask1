@@ -1,0 +1,15 @@
+<title>Bank application</title>
+
+<form method="post">
+	employ:<input type="text">
+	<br><br>
+	income:<input type="text">
+	<br><br>
+	debtinc:  <input type="text">
+	<br><br>
+	creddebt:  <input type="text">
+	<br><br>
+	othdebt:  <input type="text">
+	<br><br>
+	<input type="submit">
+</form>
